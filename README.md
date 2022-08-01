@@ -4,7 +4,7 @@
 placeholder
 
 ## Mock Up
-![Mock Up](./develop/assets/images/horiseon-mockup.png)
+![Mock Up](./assets/images/horiseon-mockup.png)
 
 ## Website
 https://jonathangibbings.github.io/module1challenge-code-refactor/
