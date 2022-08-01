@@ -1,7 +1,7 @@
 # Module-1 Challenge: Code Refactor
 
 ## Description
-placeholder
+Horiseon home page now optimized for search engines and accessibility standards.
 
 ## Mock Up
 ![Mock Up](./assets/images/horiseon-mockup.png)
